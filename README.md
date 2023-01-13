@@ -1,1 +1,1 @@
-# SocialMediaApp
+# Insect Detection
